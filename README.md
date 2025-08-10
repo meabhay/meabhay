@@ -23,7 +23,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on: **[Clevvita – AI Resume Builder](https://clevvita.netlify.app)**
+- 🔭 Currently working on: **[Clevvita – AI Resume Builder](https://lumened.netlify.app/)**
 - 🌱 Learning: **Next.js**, **TypeScript**, **System Design**
 - 👨‍💻 Portfolio: [techyabhay.netlify.app](https://techyabhay.netlify.app/)
 - 💬 Ask me about: **React, Node.js, Express, MongoDB, Tailwind, DSA**
