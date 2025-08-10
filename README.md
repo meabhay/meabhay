@@ -42,8 +42,8 @@
 
 ### 🔥 Featured Project
 
-**[Clevvita – AI Resume Builder](https://clevvita.netlify.app)**  
-> A clean and modern resume builder built with the **MERN Stack**, featuring multiple templates (coming soon), a sleek Tailwind UI, real-time preview, and seamless PDF export.
+**[LumenEd-EdTech Plateform](https://lumened.netlify.app/)**
+> LumenEd is a modern, full-stack EdTech platform designed for seamless online learning. It offers features like secure user authentication, interactive course creation, payment integration, progress tracking, ratings & reviews, and instructor dashboards. Built with React, Redux Toolkit, Node.js, and MongoDB, LumenEd delivers a smooth and responsive experience for students, instructors, and admins alike.
 
 ---
 
